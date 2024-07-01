@@ -2,7 +2,7 @@
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando PHP 🐘
 - 📫 Contato: gp0259934@gmail.com
-- 😄 pronomes: ele/dele
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPires123&layout=compact)
