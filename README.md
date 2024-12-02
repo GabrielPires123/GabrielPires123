@@ -1,7 +1,7 @@
 ### Olá! Meu chamo Gabriel Pires👋
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Java ☕
-- 📫 Contato: gp0259934@gmail.com
+- 📫 Contato: gbnp0259934@gmail.com
 
 
 
