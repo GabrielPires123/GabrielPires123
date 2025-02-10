@@ -1,7 +1,11 @@
-### Olá! Meu chamo Gabriel Pires👋
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java ☕
-- 📫 Contato: gbnp0259934@gmail.com
+### Gabriel Pires
+🎓 Student of Systems Analysis and Development
+💻 Back-End Developer | Java & Spring Boot
+
+Focused on building robust and scalable web applications, I have been honing my skills in Java and Spring Boot, frameworks known for their efficiency and productivity in enterprise solutions. 
+I'm always seeking new challenges and opportunities to contribute to innovative, high-quality solutions.
+
+📫 Contact: gbnp0259934@gmail.com
 
 
 
